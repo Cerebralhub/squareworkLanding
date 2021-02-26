@@ -99,6 +99,16 @@ p {
   margin-bottom: 1rem;
 }
 
+.go-down{
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+.downer{
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -13270,7 +13280,7 @@ textarea.form-control {
 
 .testimony-section {
   position: relative;
-  background: #26d7df;
+  background: #26d6df21;
 }
 
 .testimony-section .overlay {
